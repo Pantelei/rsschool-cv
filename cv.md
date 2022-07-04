@@ -1,7 +1,7 @@
 
 # Pantelei Vladimirovich
 
-![my photo](https://drive.google.com/file/d/18p2IGL8yFaxYRwyB-WGw2R-k-Eouu8gc/view?usp=sharing)
+![My Photo](Photo-Nik.jpg)
 
 ---
 
