@@ -9,10 +9,10 @@
 
 * **Location:** [Tiraspol, Moldova](https://goo.gl/maps/VCD4B9oDaLRWKWocA)
 * **Phone:** +373 777 78709  
-This phone is also for [viber chat](href="viber://chat?number=+37377778709") and [whatsapp chat](https://api.whatsapp.com/send?phone=+37377778709)
+This phone is also for viber chat and whatsapp chat.
 * **Email:** mebelelita@gmail.com
 * **GitHub:** [Pantelei](https://github.com/Pantelei)
-* **linkedin:** [Pantelei Vladimirovich](linkedin.com/in/pantelei-vladimirovich-1ba372244)
+* **linkedin:** [Pantelei Vladimirovich](https://linkedin.com/in/pantelei-vladimirovich-1ba372244)
 
 ## Education
 
