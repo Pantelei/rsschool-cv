@@ -64,6 +64,14 @@ Basic skills in web development have
 
 I set a goal for myself to study these technologies in depth, as well as to get a good practice.
 
+## Code Example
+
+```JavaScript
+function multiply(a, b) {
+  return a * b
+}
+```
+
 ## Language skills
 
 * Russian is a native language.
