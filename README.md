@@ -1,1 +1,1 @@
-https://pantelei.github.io/rsschool-cv/cv
+<https://pantelei.github.io/rsschool-cv/cv>

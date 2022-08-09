@@ -1,8 +1,6 @@
 
 # Pantelei Vladimirovich
 
-![My Photo](Photo-Nik.jpg)
-
 ---
 
 ## Contacts
